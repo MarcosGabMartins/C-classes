@@ -1,0 +1,14 @@
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\bin\Debug\net8.0\Exercicio01-1208.exe
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\bin\Debug\net8.0\Exercicio01-1208.deps.json
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\bin\Debug\net8.0\Exercicio01-1208.runtimeconfig.json
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\bin\Debug\net8.0\Exercicio01-1208.dll
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\bin\Debug\net8.0\Exercicio01-1208.pdb
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.AssemblyInfo.cs
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.dll
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\refint\Exercicio01-1208.dll
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.pdb
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\Exercicio01-1208.genruntimeconfig.cache
+C:\Users\Aula\Desktop\PDS - 4°BCC\Exercicio01-1208\Exercicio01-1208\obj\Debug\net8.0\ref\Exercicio01-1208.dll
